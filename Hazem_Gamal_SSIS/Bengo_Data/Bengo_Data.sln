@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Bengo_Data", "Bengo_Data\Bengo_Data.dtproj", "{E612AFAD-92EB-4D37-BBFD-D603A98CACBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E612AFAD-92EB-4D37-BBFD-D603A98CACBC}.Development|Default.ActiveCfg = Development
+		{E612AFAD-92EB-4D37-BBFD-D603A98CACBC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A42D7D3-6620-4EBC-9D14-F47D76970C92}
+	EndGlobalSection
+EndGlobal
